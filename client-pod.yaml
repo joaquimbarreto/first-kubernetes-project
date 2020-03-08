@@ -9,4 +9,4 @@ spec:
     - name: client
       image: joaquimbarreto/multi-client
       ports:
-        - cointainerPort: 3000
+        - containerPort: 3000
